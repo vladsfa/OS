@@ -1,0 +1,10 @@
+.vscode
+
+readFromFile.c
+writeInFile.c
+
+readDevInput
+readFromFile
+sharedMemory
+writeInFile
+writeInMemory
