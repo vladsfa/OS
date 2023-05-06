@@ -11,7 +11,7 @@ int main(){
     int fd = open(path, O_RDONLY);
     if (fd == -1){
         perror("Cannot open file");
-        exit(1);     
+        exit(1);
     }
 
     struct input_event ev;
